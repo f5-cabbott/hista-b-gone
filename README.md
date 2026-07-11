@@ -10,6 +10,7 @@ This repository serves as an operational architecture blueprint to systematicall
 *   [Grocery Store Hippie List](grocery_blueprint.md)
 *   [Gut Rebuild Program v2](gut_rebuild_blueprint_v2.md)
 *   [Lifestyle Schmifstyle](healthy_home.md)
+*   [Suppliment Triage/Party](suppliment_party.md)
 
 ---
 
