@@ -6,9 +6,9 @@ This repository serves as an operational architecture blueprint to systematicall
 
 ## Index
 
-*   `README.md - what's your reading now` - Framework mechanics, architectural root causes, and technical phase execution layout.
-*   [grocery_blueprint.md](grocery_blueprint.md) - Optimized physical procurement route tracking itemized selections and specific biological utility.
-*   [gut_rebuild_blueprint_v2](gut_rebuild_blueprint_v2.md)
+*   `README.md - this file` - Framework mechanics, architectural root causes, and technical phase execution layout.
+*   [Grocery Store List](grocery_blueprint.md) - Optimized physical procurement route tracking itemized selections and specific biological utility.
+*   [Gut Rebuild Blueprint v2](gut_rebuild_blueprint_v2.md)
 
 ---
 
