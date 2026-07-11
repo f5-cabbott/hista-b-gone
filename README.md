@@ -4,6 +4,12 @@ An engineering-grade protocol designed to halt chronic mast cell activation and 
 
 This repository serves as an operational architecture blueprint to systematically remediate gastrointestinal barrier breach and restore native enzyme synthesis.
 
+## Index
+
+*   `README.md - what's your reading now` - Framework mechanics, architectural root causes, and technical phase execution layout.
+*   `[grocery_blueprint.md](grocery_blueprint.md)` - Optimized physical procurement route tracking itemized selections and specific biological utility.
+*   `[gut_rebuild_blueprint_v2](gut_rebuild_blueprint_v2.md)`
+
 ---
 
 ## System Architecture: Root Cause Mechanics
@@ -76,9 +82,3 @@ To break the inflammatory loop, the framework moves sequentially through three d
 *   **Dietary Baseline:** Solidification of low-histamine maintenance. Safe fats (ghee, extra virgin olive oil, raw pine nuts, macadamia butter) are systematically introduced.
 
 ---
-
-## Index
-
-*   `README.md` - Framework mechanics, architectural root causes, and technical phase execution layout.
-*   `[grocery_blueprint.md](grocery_blueprint.md)` - Optimized physical procurement route tracking itemized selections and specific biological utility.
-*   '[gut_rebuild_blueprint_v2](gut_rebuild_blueprint_v2.md)
