@@ -1,4 +1,4 @@
-md_grocery_content = """# Low-Histamine Grocery Procurement Guide: Metropolitan Market (West Seattle)
+# Low-Histamine Grocery Procurement Guide: Metropolitan Market (West Seattle)
 
 This checklist organizes low-histamine and amine-safe grocery selections following the physical perimeter horseshoe of the West Seattle Metropolitan Market. This list bypasses all canned goods, aged items, and industrial additives to protect the gut barrier.
 
